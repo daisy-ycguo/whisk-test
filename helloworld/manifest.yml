@@ -1,5 +1,6 @@
 package:
-  name: myhelloworld 
+  name: myhelloworld
+  namespace: wskdeploy-test
   actions:
     helloworld:
       location: src/hello.js
