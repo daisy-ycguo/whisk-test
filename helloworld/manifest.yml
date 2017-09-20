@@ -2,4 +2,4 @@ package:
   name: myhelloworld
   actions:
     helloworld:
-      location: src/hello.js
+      location: https://github.com/daisy-ycguo/wskdeploy-test
